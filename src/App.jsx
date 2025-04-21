@@ -1,4 +1,4 @@
-const APP =()=>{
+const App =()=>{
   return (
     <div>
       Portfolio Website
